@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3A7E5C41-810A-47AC-9BFA-BE841235DD17"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BEF641AF-031D-4C35-B953-7A1C5AAFCD68"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "toDoApp(RW)/AddTaskViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "BEF641AF-031D-4C35-B953-7A1C5AAFCD68 - 9e937819dcb3052"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toDoApp_RW_.AddTaskViewController.__deallocating_deinit"
+                  moduleName = "toDoApp(RW)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhanadil/Desktop/IOSProjects/toDoApp(RW)/toDoApp(RW)/AddTaskViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "BEF641AF-031D-4C35-B953-7A1C5AAFCD68 - 85aaf19fb7fadd7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toDoApp_RW_.AddTaskViewController.__allocating_init(style: __C.UITableViewStyle) -&gt; toDoApp_RW_.AddTaskViewController"
+                  moduleName = "toDoApp(RW)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhanadil/Desktop/IOSProjects/toDoApp(RW)/toDoApp(RW)/AddTaskViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "BEF641AF-031D-4C35-B953-7A1C5AAFCD68 - 5be0a5d0c6d277d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toDoApp_RW_.AddTaskViewController.init(style: __C.UITableViewStyle) -&gt; toDoApp_RW_.AddTaskViewController"
+                  moduleName = "toDoApp(RW)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhanadil/Desktop/IOSProjects/toDoApp(RW)/toDoApp(RW)/AddTaskViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  uuid = "BEF641AF-031D-4C35-B953-7A1C5AAFCD68 - 159e6dda979b2192"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toDoApp_RW_.AddTaskViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; toDoApp_RW_.AddTaskViewController"
+                  moduleName = "toDoApp(RW)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhanadil/Desktop/IOSProjects/toDoApp(RW)/toDoApp(RW)/AddTaskViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "BEF641AF-031D-4C35-B953-7A1C5AAFCD68 - 6be6d0594b4d4d8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toDoApp_RW_.AddTaskViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; toDoApp_RW_.AddTaskViewController"
+                  moduleName = "toDoApp(RW)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhanadil/Desktop/IOSProjects/toDoApp(RW)/toDoApp(RW)/AddTaskViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "389">
+               </Location>
+               <Location
+                  uuid = "BEF641AF-031D-4C35-B953-7A1C5AAFCD68 - 83794bce147192c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toDoApp_RW_.AddTaskViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;toDoApp_RW_.AddTaskViewController&gt;"
+                  moduleName = "toDoApp(RW)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhanadil/Desktop/IOSProjects/toDoApp(RW)/toDoApp(RW)/AddTaskViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "BEF641AF-031D-4C35-B953-7A1C5AAFCD68 - 259dc2e9528f15d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toDoApp_RW_.AddTaskViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;toDoApp_RW_.AddTaskViewController&gt;"
+                  moduleName = "toDoApp(RW)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhanadil/Desktop/IOSProjects/toDoApp(RW)/toDoApp(RW)/AddTaskViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "239">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
